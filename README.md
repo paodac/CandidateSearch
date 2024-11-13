@@ -15,6 +15,9 @@ The Candidate Search Application allows users to browse potential candidates by 
 - Responsive and clean user interface.
 
 ---
+## Description
+- Deployed Application: https://candidatesearch-cjlk.onrender.com
+
 
 ## Screenshots
 
