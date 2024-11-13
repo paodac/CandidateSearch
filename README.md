@@ -22,10 +22,10 @@ The Candidate Search Application allows users to browse potential candidates by 
 ## Screenshots
 
 ### Candidate Search Page
-![Candidate Search](./Assets/PotentialCandidates.png)
+![Candidate Search](./assets/PotentialCandidates.png)
 
 ### Saved Candidates Page
-![Saved Candidates](./Assets/SavedItems.png)
+![Saved Candidates](./assets/SavedItems.png)
 
 ---
 
